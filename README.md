@@ -10,5 +10,3 @@ I'm a Computer Science student.
 ## 🛠 Tech Stack
 Python | C++ | Git | Linux
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moeleak)
