@@ -11,19 +11,20 @@ I'm a Computer Science student.
 Python | C++ | Git | Linux
 
 
+
 <h2>🐍 My Contributions</h2>
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/moeleak/moeleak/output/github-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/Nizeross/Nizeross/output/github-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/moeleak/moeleak/output/github-snake.svg"
+    srcset="https://raw.githubusercontent.com/Nizeross/Nizeross/output/github-snake.svg"
   />
   <img
     alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/moeleak/moeleak/output/github-snake.svg"
+    src="https://raw.githubusercontent.com/Nizeross/Nizeross/output/github-snake.svg"
   />
 </picture>
