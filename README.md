@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&width=600&lines=Hello%2C+I+like+CS;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&width=600&lines=Hello%2C+I+like+CS.;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 - 💻 Learning Computer Science
